@@ -1,5 +1,8 @@
 {
   "compilerOptions": {
-    "moduleResolution": "node"
-  }
+    "moduleResolution": "node",
+    "rootDir": "./src",
+  },
+  "include": ["**/*"],
+  "exclude": []
 }
